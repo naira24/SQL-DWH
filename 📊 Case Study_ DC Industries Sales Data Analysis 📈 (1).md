@@ -1,6 +1,6 @@
 # 📊 SQL Data Warehouse (DWH) Project 📈
 
-This repository showcases a comprehensive SQL Data Warehouse (DWH) project, focusing on data analytics principles from exploratory data analysis (EDA) to advanced analytics. The project aims to demonstrate robust data handling, transformation, and insightful reporting capabilities using SQL.
+This repository showcases a comprehensive SQL Data Warehouse (DWH) project, focusing on data analytics principles from exploratory data analysis (EDA) to advanced analytics. The project aims to demonstrate data handling, transformation, and insightful reporting capabilities using SQL.
 
 ## 🏛️ Data Warehousing (DWH) 
 
@@ -38,13 +38,13 @@ The implementation within this repository focuses on defining star schemas, crea
 
 -   `EDA/`: Contains scripts and queries related to Exploratory Data Analysis.
 -   `datasets/`: Stores the raw or processed datasets used in the project.
--   `docs/`: Houses documentation, design documents, or additional notes.
+-   `docs/`: design documents.
 -   `scripts/`: Includes SQL scripts for DWH creation, ETL processes, and advanced queries.
 
 
 ## 🛠️ Technologies Used
 
--   **T-SQL:** The primary language used for database interactions, DWH creation, and data manipulation.
+-   **SQL:** The primary language used for database interactions, DWH creation, and data manipulation.
 
 ## 🚀 Getting Started
 
