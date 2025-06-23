@@ -1,4 +1,4 @@
-# 📊 SQL Data Warehouse (DWH) Project 📈
+# 📊 SQL Data Warehouse (DWH) Project 
 
 This repository showcases a comprehensive SQL Data Warehouse (DWH) project, focusing on data analytics principles from exploratory data analysis (EDA) to advanced analytics. The project aims to demonstrate data handling, transformation, and insightful reporting capabilities using SQL.
 
