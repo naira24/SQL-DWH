@@ -2,14 +2,6 @@
 
 This repository showcases a comprehensive SQL Data Warehouse (DWH) project, focusing on data analytics principles from exploratory data analysis (EDA) to advanced analytics. The project aims to demonstrate robust data handling, transformation, and insightful reporting capabilities using SQL.
 
-## ✨ Project Overview
-
-This project is structured to cover various aspects of data analytics, as visualized in the project roadmap:
-
-![Project Roadmap](ProjectRoadmap.png)
-
-The roadmap outlines a systematic approach to data analysis, encompassing:
-
 ### Exploratory Data Analysis (EDA)
 
 1.  **Database Exploration:** Understanding the schema and initial data structure.
@@ -38,7 +30,7 @@ The roadmap outlines a systematic approach to data analysis, encompassing:
 
 ## 🛠️ Technologies Used
 
--   **T-SQL:** The primary language used for database interactions, DWH creation, and data manipulation.
+-   **SQL:** The primary language used for database interactions, DWH creation, and data manipulation.
 
 ## 🚀 Getting Started
 
@@ -60,8 +52,6 @@ To explore or replicate this project:
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## 📞 Contact
 
-For any questions or collaborations, please reach out via the GitHub repository.
 
 
