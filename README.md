@@ -56,7 +56,7 @@ To explore or replicate this project:
     ```
 2.  Navigate to the cloned directory:
     ```bash
-    cd SQL-DWH
+    cd SQL-DWH 
     ```
 3.  Explore the `scripts/` folder for DWH creation and data loading scripts.
 4.  Refer to the `EDA/` folder for exploratory analysis queries.
